@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import liveby from "../assests/liveby.jpg";
-import video1 from "../assests/video1.mp4";
 import Icon from "@material-ui/core/Icon";
 import Pnews from "../assests/Pnews.png";
 import Pnews1 from "../assests/Pnews1.png";
